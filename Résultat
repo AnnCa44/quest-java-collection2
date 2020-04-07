@@ -1,0 +1,13 @@
+wilder@wilder-ThinkPad-T440p:~/JavaProjects/quest-java-collection2$  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /home/wilder/.config/Code/User/workspaceStorage/b8245a496d335060b1995818dc16e86f/redhat.java/jdt_ws/quest-java-collection2_59773d50/bin Thanos 
+
+Order by name:
+Black Widow, 34
+Captain America, 100
+Hulk, 49
+Thor, 1501
+
+Order by age:
+Thor, 1501
+Captain America, 100
+Hulk, 49
+Black Widow, 34
